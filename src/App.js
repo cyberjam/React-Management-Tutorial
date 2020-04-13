@@ -8,7 +8,7 @@ function App() {
       <img src={logo} lat="logo" />
       <h2>Let's develop management system!</h2>
     </div>
-  );
+  ); 
 }
 
 export default App;
